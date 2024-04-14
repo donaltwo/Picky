@@ -1,5 +1,70 @@
 /*CSS Styling Rules*/
-
+/* Media queries for smaller screens */
+@media only screen and (max-width: 768px) {
+    /* CSS rules for screens up to 768px width */
+    body {
+      padding-top: 100px; /* Adjust padding for smaller screens */
+    }
+    
+    .header,
+    .h1 {
+      font-size: 24px; /* Decrease font size for headers on smaller screens */
+      padding-top: 100px; /* Adjust padding for smaller screens */
+    }
+    
+    .logo-animation {
+      font-size: 40px; /* Decrease font size for logo on smaller screens */
+    }
+    
+    .filterDiv {
+      width: 90%; /* Adjust width of filterDiv for smaller screens */
+    }
+    
+    .newfood {
+      font-size: 40px; /* Decrease font size for newfood on smaller screens */
+      width: 90%; /* Adjust width of newfood for smaller screens */
+    }
+    
+    .food-form,
+    .dropdown {
+      font-size: 16px; /* Decrease font size for form and dropdown on smaller screens */
+    }
+    
+    .button {
+      font-size: 16px; /* Decrease font size for buttons on smaller screens */
+    }
+  }
+  
+  /* Media queries for even smaller screens */
+  @media only screen and (max-width: 480px) {
+    /* CSS rules for screens up to 480px width */
+    .header,
+    .h1 {
+      font-size: 20px; /* Further decrease font size for headers on even smaller screens */
+    }
+    
+    .logo-animation {
+      font-size: 30px; /* Further decrease font size for logo on even smaller screens */
+    }
+    
+    .filterDiv {
+      width: 95%; /* Further adjust width of filterDiv for even smaller screens */
+    }
+    
+    .newfood {
+      font-size: 30px; /* Further decrease font size for newfood on even smaller screens */
+      width: 95%; /* Further adjust width of newfood for even smaller screens */
+    }
+    
+    .food-form,
+    .dropdown {
+      font-size: 14px; /* Further decrease font size for form and dropdown on even smaller screens */
+    }
+    
+    .button {
+      font-size: 14px; /* Further decrease font size for buttons on even smaller screens */
+    }
+  }
 /* Poppins google font import */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
