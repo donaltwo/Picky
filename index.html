@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Picky! A web app that helps you decide what to eat next based on your flavor, texture, and dietary preferences. 
+    Choose from a variety of options including sweet, sour, savory, crispy, soft, creamy, meat, vegan, and vegetarian dishes.">
+    <link rel="stylesheet" href="style.css">
+    <title>Picky!</title>
+</head>
+
+<body>
+    <div class="splash">
+        <h1 class="fade-in">Welcome to Picky! A web app that helps you pick what to eat next.</h1>
+    </div>
+    <div class="logo-animation">
+        <p>Let's get Picky!</p>
+    </div>
+    <h1 class=" header"> Pick your answer by clicking the buttons to help determine your next meal
+        choice!</h1>
+
+    <!-- Food selection controls -->
+    <div id="allbuttons"></div>
+    <div id="flavourButtons">
+        <button class="button" onclick="filterSelection('sweet')"> Sweet!&#127827;</button>
+        <button class="button" onclick="filterSelection('sour')"> Sour!&#127819;</button>
+        <button class="button" onclick="filterSelection('bitter')"> Bitter!&#129362;</button>
+        <button class="button" onclick="filterSelection('umami')"> Umami!&#127833;</button>
+        <button class="button" onclick="filterSelection('savoury')"> Savory!&#127838;</button>
+    </div>
+    <div id="textureButtons">
+        <button class="button" onclick="filterSelection('crispy')"> Crispy!&#127839;</button>
+        <button class="button" onclick="filterSelection('liquid')"> Liquid!&#129380;</button>
+        <button class="button" onclick="filterSelection('soft')"> Soft!&#129360;</button>
+        <button class="button" onclick="filterSelection('hard')"> Hard!&#129365;</button>
+        <button class="button" onclick="filterSelection('creamy')"> Creamy&#127846;</button>
+    </div>
+    <div id="dietaryButtons">
+        <button class="button" onclick="filterSelection('meat')"> Meat!&#127830;</button>
+        <button class="button" onclick="filterSelection('vegan')"> Vegan!&#129388;</button>
+        <button class="button" onclick="filterSelection('vegetarian')"> Vegetarian!&#127859;</button>
+    </div>
+    <div id="extraControls">
+        <button class="button" onclick="addRandom(), filterSelection ('addRandom')">Surprise me!&#127873;</button>
+        <button class="button" onclick="filterSelection('all')"> Show all!&#128269;</button>
+        <button class="button" onclick="filterSelection('none')"> Reset!&#10060;</button>
+    </div>
+    </div>
+    <!-- The selectable elements for food-->
+    <div class="food-result">
+        <div class="filterDiv sweet soft creamy vegetarian">Ice Cream Sundae</div>
+        <div class="filterDiv soft umami meat">Pork Burrito</div>
+        <div class="filterDiv crispy savoury vegan">Crisps</div>
+        <div class="filterDiv umami soft vegetarian">Egg Fried Rice</div>
+        <div class="filterDiv liquid bitter vegan">Dandelion Tea</div>
+        <div class="filterDiv liquid bitter vegan"> Kale Smoothie</div>
+        <div class="filterDiv liquid savoury creamy vegetarian">Tomato & Cream Soup</div>
+        <div class="filterDiv hard sour vegan">Pickled Mushrooms</div>
+        <div class="filterDiv hard sour vegan">Kimchi</div>
+        <div class="filterDiv soft sweet sour meat">Sweet & Sour Chicken</div>
+        <div class="filterDiv crispy savoury meat">Fried Chicken</div>
+        <div class="filterDiv hard sweet vegan">Lollipop</div>
+        <!-- User submitted food will display here-->
+        <div class="newfood"></div>
+    </div>
+    <div class="food-form">
+        <form id="foodForm" onsubmit="return false">
+            <ol>
+                <li><label for="foodName">Meal:</label></li>
+                <input type="text" id="foodName" required>
+                <!-- Flavour options -->
+                <li><label for="mainFlavour">Main Flavour:</label></li>
+                <select class="dropdown" id="mainFlavour">
+                    <option value="sweet">Sweet&#127827;</option>
+                    <option value="sour">Sour&#127819;</option>
+                    <option value="bitter">Bitter&#129362;</option>
+                    <option value="umami">Umami&#127833;</option>
+                    <option value="savoury">Savoury&#127838;</option>
+                </select>
+                <!-- Texture options -->
+                <li><label for="mainTexture">Main Texture:</label></li>
+                <select class="dropdown" id="mainTexture">
+                    <option value="crispy">Crispy&#127839;</option>
+                    <option value="liquid">Liquid&#129380;</option>
+                    <option value="soft">Soft&#129360;</option>
+                    <option value="hard">Hard&#129365;</option>
+                    <option value="creamy">Creamy&#127846;</option>
+                </select>
+                <!-- Diet category -->
+                <li><label for="dietaryCategory">Dietary Category:</label></li>
+                <select class="dropdown" id="dietaryCategory">
+                    <option value="meat">Meat&#127830;</option>
+                    <option value="vegan">Vegan&#129388;</option>
+                    <option value="vegetarian">Vegetarian&#127859;</option>
+                </select>
+                <li><button class="button">Add Food&#127869;</button></li>
+            </ol>
+        </form>
+    </div>
+    <script src="script.js"></script>
+    <footer>Donal Twomey 2024</footer>
+</body>
+
+</html>
