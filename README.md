@@ -99,7 +99,7 @@ Footer with my own name and year of creation for the project.
 ![Authourfooter](https://github.com/donaltwo/Picky/assets/155965788/82b0a152-6b24-48cc-b8f3-682f3d9e4a0d)
 
  # Testing
-[https://ui.dev/amiresponsive?url=https://donaltwo.github.io/Picky/](Am I Responsive? Showing Pikcy on mutiple devices with differing formats.
+[https://ui.dev/amiresponsive?url=https://donaltwo.github.io/Picky/](Am I Responsive? Showing Picky! on mutiple devices with differing formats.)
  ![AmIResponsive](https://github.com/donaltwo/Picky/assets/155965788/2b951335-c075-4b53-b4e1-cb96da542fad)
 
 
