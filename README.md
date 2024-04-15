@@ -21,12 +21,14 @@ Picky is a web app that allows users to click on 5 flavours sweet, sour, bitter,
 A form is used to allow the user to tag and submit their own custom food choice to the web app.
 
 Audience, people with dietary requirements, neurodivergent people or anyone who is picky with what they like to eat.
-1.User Case 1 
-A person with dietary requirements, who wants to use Picky! to easily find meals that suit their taste preferences, so that they can confidently choose meals that align with their dietary needs without spending excessive time browsing through menus or recipes.
-2.User Case 2
-Neurodivergent people often struggle with decision-making, especially when it comes to food choices. With Picky!I hope to simplify the process for them by having them select preferred flavours and textures, allowing them to make meal decisions more efficiently in a fun and quick web app way.
-3.User Case 3
-People often find themselves stuck in a cycle of indecision during mealtime. Picky! provides these users with a solution by offering a tailored selection of meals alleviating the stress of deciding what to eat next.
+
+**User Case Scenarios**:
+
+1. A person with dietary requirements, who wants to use Picky! to easily find meals that suit their taste preferences, so that they can confidently choose meals that align with their dietary needs without spending excessive time browsing through menus or recipes.
+2. 
+3. Neurodivergent people often struggle with decision-making, especially when it comes to food choices. With Picky!, I hope to simplify the process for them by having them select preferred flavors and textures, allowing them to make meal decisions more efficiently in a fun and quick web app way.
+4. 
+5. People often find themselves stuck in a cycle of indecision during mealtime. Picky! provides these users with a solution by offering a tailored selection of meals alleviating the stress of deciding what to eat next.
 
 Idea: Using JavaScript code a meal picker based on what flavour and texture you want to eat by having an interactable 
 
@@ -84,7 +86,7 @@ Clears current filter selection.
 
 ![Reset](https://github.com/donaltwo/Picky/assets/155965788/244ba117-e0ab-47b4-b020-b5f8bd1f63f9)
 
-7. **Form with dropdowns for user to submit their own custom food**
+7.**Form with dropdowns for user to submit their own custom food**
 
 Form that allows users to submit their own food and have it tagged using the dropdown by flavour,texture and dietary category with the Add Food button to submit the form and log the food locally using Javascript.
 
@@ -154,11 +156,17 @@ There are no present known issues with this web app, in its current version.
 I deployed this web app via GitHub Pages was by doing the following steps:
 
 Signing into GitHub.
+
 1.Finding the repository.
+
 2.Navigating to the "Settings" option in the menu bar.
+
 3.Proceeding to the "Pages" tab in the sidebar on the left.
+
 4.Under "Source," select the "Master" branch from the dropdown menu.
+
 5.Click the save button to apply the changes.
+
 6.Once saved, the page will update, displaying the message: "Your site is ready to be published at [https://donaltwo.github.io/Picky/](Picky)."
 
 # Media
