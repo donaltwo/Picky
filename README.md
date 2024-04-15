@@ -56,8 +56,11 @@ Using Javascript I coded in Javascript and CSS q quick welcome message giving th
 A bouncing text saying Let's get Picky using HTML and CSS to move the etxt in an up and down loop.
 
 ![logo](https://github.com/donaltwo/Picky/assets/155965788/76d071ce-3d68-47a9-ba6f-cf202c8e5576)
+
 3.**Flavour Buttons**
+
 All the five flavours are sweet,sour,bitter,umami and savoury.
+
 ![Flavour buttons](https://github.com/donaltwo/Picky/assets/155965788/af66032e-0e7d-46ec-bb9e-92741653b819)
 
 3.**Texture Buttons**
