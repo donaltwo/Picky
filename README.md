@@ -99,7 +99,7 @@ Footer with my own name and year of creation for the project.
 ![Authourfooter](https://github.com/donaltwo/Picky/assets/155965788/82b0a152-6b24-48cc-b8f3-682f3d9e4a0d)
 
  # Testing
-[https://ui.dev/amiresponsive?url=https://donaltwo.github.io/Picky/](Am I Responsive? Showing Picky! on mutiple devices with differing formats.)
+[Am I Responsive? Showing Picky! on mutiple devices with different devices](https://ui.dev/amiresponsive?url=https://donaltwo.github.io/Picky/)
  ![AmIResponsive](https://github.com/donaltwo/Picky/assets/155965788/2b951335-c075-4b53-b4e1-cb96da542fad)
 
 
@@ -180,25 +180,25 @@ Thanks to my Code Institute mentor Dick V for his feedback and for the below res
 
 Code Institute Resources
 -[Love Maths Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+3)
+
  YouTube Resources
   - [Learn HTML buttons in 5 minutes!](https://www.youtube.com/watch?v=tDqTXipQmBU)
   - [Creating A Simple Website Intro Screen (Splash Screen) Using HTML / CSS / Vanilla JavaScript](https://www.youtube.com/watch?v=MOlaldp1Fv4)
   - [Dropdown filter for HTML tables using JavaScript and CSS](https://www.youtube.com/watch?v=tYdlt9q6Iug)
   - [How to use the Filter method in JavaScript to search and filter JSON data](https://www.youtube.com/watch?v=0WPCyqW6N7Y)
-- W3Schools
+ W3Schools
   - [Filtering Elements](https://www.w3schools.com/howto/howto_js_filter_elements.asp)
   - [JavaScript Event onfocus](https://www.w3schools.com/js/tryit.asp?filename=tryjs_event_onfocus)
   - [Alerts in JavaScript](https://www.w3schools.com/howto/howto_js_alert.asp)
-- freeCodeCamp
+ freeCodeCamp
   - [JavaScript Array of Objects Tutorial](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/)
   - [CSS Button Styles](https://www.freecodecamp.org/news/css-button-style-hover-color-and-background)
   - [Creating a Random Meal Generator](https://www.freecodecamp.org/news/creating-a-random-meal-generator/)
-- codedamn
+  codedamn
   - [Submit Form with JavaScript](https://codedamn.com/news/javascript/submit-form-with-javascript)
-- Mozilla Developer
+ Mozilla Developer
   - [Working with JavaScript Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
+Tutorials Point
   - [CSS Animation - Bounce](https://www.tutorialspoint.com/css/css_animation_bounce.htm)
-- Stack Overflow
-  - [Random Background Color for Buttons](https://stackoverflow.com/questions/61995995/how-to-give-random-background-color-to-list-of-buttons)
-  - SYMBL Emojis
+SYMBL Emojis
   -  [SYMBL](https://symbl.cc/en/)
