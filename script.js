@@ -4,7 +4,7 @@
 const $ = selector => document.querySelector(selector);
 const $$ = selector => document.querySelectorAll(selector);
 
-// Splash Screen 
+// Splash Screen with 5 second time out
 document.addEventListener("DOMContentLoaded", () => {
     const splash = $(".splash");
     setTimeout(() => {
