@@ -36,28 +36,27 @@ I made wireframes in Balsamiq to give a rough estimation of what i wanted the in
 ![Wireframe texture](https://github.com/donaltwo/Picky/assets/155965788/3592e62c-634b-4020-9d1c-48375e7392e0)
 
 # Feautures
-Splash Screen
+1.Splash Screen
 Using Javascript I coded in Javascript and CSS q quick welcome message giving the user the name and fucntion of the web app.
-*SCREENSHOTS*
-Flavour Buttons
+![Spalsh screen welcome message](https://github.com/donaltwo/Picky/assets/155965788/fa05d549-a522-4cd6-b6bb-216f33e26956)
+
+2.Flavour Buttons
 All the five flavours sweet,sour,bitter,umami and savoury.
 ![Flavour buttons](https://github.com/donaltwo/Picky/assets/155965788/af66032e-0e7d-46ec-bb9e-92741653b819)
-Texture Buttons
-Five testures proivided liquid, crispy, soft, hard and creamy.
+3.Texture Buttons
+4.Five testures proivided liquid, crispy, soft, hard and creamy.
 ![Texture buttons](https://github.com/donaltwo/Picky/assets/155965788/deddd6e4-d04c-423e-9b6a-e167e0cdf597)
-
 Additional buttons
-Suprise mme button
+5.Suprise mme button
 Proivdes user random meal from array. 
 ![Random](https://github.com/donaltwo/Picky/assets/155965788/5abbf8ff-29a9-4d1d-9ed5-f866c2a61980)
-Show all button
+6.Show all button
 Displays all meals hosted on web app.
 ![Show all](https://github.com/donaltwo/Picky/assets/155965788/57d57e84-598b-467b-81fc-f8316a1de488)
-Reset button
+7.Reset button
 Clears current filter selection.
 ![Reset](https://github.com/donaltwo/Picky/assets/155965788/244ba117-e0ab-47b4-b020-b5f8bd1f63f9)
-
-Form that allows users to submit their own food and have it tagged using the dropdown by flavour,texture and dietary category with Add Food button to submit the form and log the food locally using Javascript.
+8.Form that allows users to submit their own food and have it tagged using the dropdown by flavour,texture and dietary category with Add Food button to submit the form and log the food locally using Javascript.
 ![Form for users to add food](https://github.com/donaltwo/Picky/assets/155965788/6c53cd8d-c6a9-45ae-9e98-c792e814637b)
 
 
@@ -66,10 +65,11 @@ Form that allows users to submit their own food and have it tagged using the dro
  # Validator Testing 
 
 
-HTML Validation
+# HTML Validation
 ![W3C Validaiton](https://github.com/donaltwo/Picky/assets/155965788/d2962b2d-c5cb-4eee-babe-ca3c81f2b8e8)
 
-CSS Validation
+# CSS Validation
+Jigsaw Valiadtion result
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -78,12 +78,10 @@ CSS Validation
     </a>
 </p>
 Javascript Validation
- 
+ Jshint Valiadtion result
 
- Table of testing features
-
-|                    |                                  
- Lighthouse Scoring
+              |                                  
+ # Lighthouse Scoring
 ![Lighthouse Results](https://github.com/donaltwo/Picky/assets/155965788/e5e3e9d7-a102-4585-8d30-ae98d197b0b2)
 
 Known Issues
@@ -92,12 +90,12 @@ Deployment
 I deployed this web app via GitHub Pages was by doing the following steps:
 
 Signing in to GitHub.
-Finding the repository.
-Navigating to the "Settings" option in the menu bar.
-Proceeding to the "Pages" tab in the sidebar on the left.
-Under "Source," select the "Master" branch from the dropdown menu.
-Click the save button to apply the changes.
-Once saved, the page will update, displaying the message: "Your site is ready to be published at [URL]."
+1.Finding the repository.
+2.Navigating to the "Settings" option in the menu bar.
+3.Proceeding to the "Pages" tab in the sidebar on the left.
+4.Under "Source," select the "Master" branch from the dropdown menu.
+5.Click the save button to apply the changes.
+6.Once saved, the page will update, displaying the message: "Your site is ready to be published at [URL]."
 
 Media
 The emojis code wis the only visual media and the HTML code for this was provided by [SYMBL](https://symbl.cc/en/)
