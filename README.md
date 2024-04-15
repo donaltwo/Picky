@@ -32,9 +32,13 @@ Idea: Using JavaScript code a meal picker based on what flavour and texture you 
 
 # Preparation Phase
 I made wireframes in Balsamiq to give a rough estimation of what I wanted the interface to look like. I decided initially that I wanted to select a flavour and texture to get food results by that tag.
+
 **Flavour Buttons**
+
 ![Wireframe flavour](https://github.com/donaltwo/Picky/assets/155965788/082ca0d7-50a0-4c32-8508-b5cd82bb3876)
+
 **Texture Buttons**
+
 ![Wireframe texture](https://github.com/donaltwo/Picky/assets/155965788/3592e62c-634b-4020-9d1c-48375e7392e0)
 
 # Features
@@ -62,26 +66,26 @@ Five textures provided liquid, crispy, soft, hard and creamy.
 
 **Additional buttons**
 
-5.**Surprise me button**
+4.**Surprise me button**
 
 Provides a user random meal from an array. 
 
 ![Random](https://github.com/donaltwo/Picky/assets/155965788/5abbf8ff-29a9-4d1d-9ed5-f866c2a61980)
 
-6.**Show all button**
+5.**Show all button**
 
 Displays all meals hosted on a web app.
 
 ![Show all](https://github.com/donaltwo/Picky/assets/155965788/57d57e84-598b-467b-81fc-f8316a1de488)
 
-7.**Reset button**
+6.**Reset button**
 
 Clears current filter selection.
 
 ![Reset](https://github.com/donaltwo/Picky/assets/155965788/244ba117-e0ab-47b4-b020-b5f8bd1f63f9)
 
-8. **Form with dropdowns for suer to submit their own custom food**
-9. 
+7. **Form with dropdowns for user to submit their own custom food**
+
 Form that allows users to submit their own food and have it tagged using the dropdown by flavour,texture and dietary category with the Add Food button to submit the form and log the food locally using Javascript.
 
 ![Form for users to add food](https://github.com/donaltwo/Picky/assets/155965788/6c53cd8d-c6a9-45ae-9e98-c792e814637b)
@@ -93,7 +97,34 @@ Footer with my own name and year of creation for the project.
 ![Authourfooter](https://github.com/donaltwo/Picky/assets/155965788/82b0a152-6b24-48cc-b8f3-682f3d9e4a0d)
 
  # Testing
- 
+
+# Table of Testing Features
+
+| Feature               | Description                                                                         | Pass/Fail |
+|-----------------------|-------------------------------------------------------------------------------------|-----------|
+| Splash Screen         | Splash screen displays on website opening and times out after 5 seconds.            | Pass      |
+| Logo                  | Logo is clear and loops through animation transform rules in CSS.                   | Pass      |
+| Sweet Button          | Filters through food and shows food objects tagged as sweet.                        | Pass      |
+| Sour Button           | Filters through food and shows food objects tagged as sour.                         | Pass      |
+| Bitter Button         | Filters through food and shows food objects tagged as bitter.                       | Pass      |
+| Umami Button          | Filters through food and shows food objects tagged as umami.                        | Pass      |
+| Savoury Button        | Filters through food and shows food objects tagged as savory.                       | Pass      |
+| Crispy Button         | Filters through food and shows food objects tagged as crispy.                       | Pass      |
+| Liquid Button         | Filters through food and shows food objects tagged as liquid.                       | Pass      |
+| Soft Button           | Filters through food and shows food objects tagged as soft.                         | Pass      |
+| Hard Button           | Filters through food and shows food objects tagged as hard.                         | Pass      |
+| Meat Button           | Filters through food and shows food objects tagged as having meat.                  | Pass      |
+| Vegetarian Button     | Filters through food and shows food objects tagged as being vegetarian.             | Pass      |
+| Vegan Button          | Filters through food and shows food objects tagged as being vegan.                  | Pass      |
+| Surprise Me Button    | Cycles through food and shows a random food object.                                 | Pass      |
+| Show All Button       | Shows all food hardcoded and added by the user through a form.                      | Pass      |
+| Reset Button          | Clears all food items for the web app allowing the user to select a new button.     | Pass      |
+| Meal Input            | Input field allowing custom text; displays required if the user submits blank.      | Pass      |
+| Flavour Dropdown      | Allows users to tag the food object by flavour.                                     | Pass      |
+| Texture Dropdown      | Allows users to tag the food object by texture.                                     | Pass      |
+| Dietary Category Dropdown | Allows users to tag the food object by dietary category.                        | Pass      |
+|Add Food Button   | Completes the form using Javascript storing the food object and tagging it appropiately. | Pass      |
+
 # HTML Validation W3C Validation result no errors.
 ![W3C Validaiton](https://github.com/donaltwo/Picky/assets/155965788/d2962b2d-c5cb-4eee-babe-ca3c81f2b8e8)
 
@@ -127,10 +158,6 @@ Signing into GitHub.
 
 # Media
 The emojis code is the only visual media to give a more fun and dynamic element to the buttons and the HTML code for this was provided by [SYMBL](https://symbl.cc/en/)
-
-# Credits & Acknowledgements
-Thanks to my Code Institute mentor Dick V, for his feedback and for the below resources in shaping this project.
-
 
 # Credits & Acknowledgements
 Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
