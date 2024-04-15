@@ -180,8 +180,6 @@ The emojis code is the only visual media to give a more fun and dynamic element 
 
 Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
 
-=======
->>>>>>> 4df1b1e (read me updates)
 ## Code Institute Resources
 - [Love Maths Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+3)
 
