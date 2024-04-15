@@ -25,10 +25,10 @@ Audience, people with dietary requirements, neurodivergent people or anyone who 
 **User Case Scenarios**:
 
 1. A person with dietary requirements, who wants to use Picky! to easily find meals that suit their taste preferences, so that they can confidently choose meals that align with their dietary needs without spending excessive time browsing through menus or recipes.
-2. 
-3. Neurodivergent people often struggle with decision-making, especially when it comes to food choices. With Picky!, I hope to simplify the process for them by having them select preferred flavors and textures, allowing them to make meal decisions more efficiently in a fun and quick web app way.
-4. 
-5. People often find themselves stuck in a cycle of indecision during mealtime. Picky! provides these users with a solution by offering a tailored selection of meals alleviating the stress of deciding what to eat next.
+ 
+2. Neurodivergent people often struggle with decision-making, especially when it comes to food choices. With Picky!, I hope to simplify the process for them by having them select preferred flavors and textures, allowing them to make meal decisions more efficiently in a fun and quick web app way.
+  
+3. People often find themselves stuck in a cycle of indecision during mealtime. Picky! provides these users with a solution by offering a tailored selection of meals alleviating the stress of deciding what to eat next.
 
 Idea: Using JavaScript code a meal picker based on what flavour and texture you want to eat by having an interactable 
 
