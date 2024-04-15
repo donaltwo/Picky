@@ -177,28 +177,37 @@ The emojis code is the only visual media to give a more fun and dynamic element 
 
 # Credits & Acknowledgements
 Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
+# Credits & Acknowledgements
 
--Code Institute Resources
--[Love Maths Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+3)
+Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
 
- -YouTube Resources
-  - [Learn HTML buttons in 5 minutes!](https://www.youtube.com/watch?v=tDqTXipQmBU)
-  - [Creating A Simple Website Intro Screen (Splash Screen) Using HTML / CSS / Vanilla JavaScript](https://www.youtube.com/watch?v=MOlaldp1Fv4)
-  - [Dropdown filter for HTML tables using JavaScript and CSS](https://www.youtube.com/watch?v=tYdlt9q6Iug)
-  - [How to use the Filter method in JavaScript to search and filter JSON data](https://www.youtube.com/watch?v=0WPCyqW6N7Y)
- -W3Schools
-  - [Filtering Elements](https://www.w3schools.com/howto/howto_js_filter_elements.asp)
-  - [JavaScript Event onfocus](https://www.w3schools.com/js/tryit.asp?filename=tryjs_event_onfocus)
-  - [Alerts in JavaScript](https://www.w3schools.com/howto/howto_js_alert.asp)
- -freeCodeCamp
-  - [JavaScript Array of Objects Tutorial](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/)
-  - [CSS Button Styles](https://www.freecodecamp.org/news/css-button-style-hover-color-and-background)
-  - [Creating a Random Meal Generator](https://www.freecodecamp.org/news/creating-a-random-meal-generator/)
- - codedamn
-  - [Submit Form with JavaScript](https://codedamn.com/news/javascript/submit-form-with-javascript)
- Mozilla Developer
-  - [Working with JavaScript Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
--Tutorials Point
-  - [CSS Animation - Bounce](https://www.tutorialspoint.com/css/css_animation_bounce.htm)
--SYMBL Emojis
-  -  [SYMBL](https://symbl.cc/en/)
+## Code Institute Resources
+- [Love Maths Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+3)
+
+## YouTube Resources
+- [Learn HTML buttons in 5 minutes!](https://www.youtube.com/watch?v=tDqTXipQmBU)
+- [Creating A Simple Website Intro Screen (Splash Screen) Using HTML / CSS / Vanilla JavaScript](https://www.youtube.com/watch?v=MOlaldp1Fv4)
+- [Dropdown filter for HTML tables using JavaScript and CSS](https://www.youtube.com/watch?v=tYdlt9q6Iug)
+- [How to use the Filter method in JavaScript to search and filter JSON data](https://www.youtube.com/watch?v=0WPCyqW6N7Y)
+
+## W3Schools
+- [Filtering Elements](https://www.w3schools.com/howto/howto_js_filter_elements.asp)
+- [JavaScript Event onfocus](https://www.w3schools.com/js/tryit.asp?filename=tryjs_event_onfocus)
+- [Alerts in JavaScript](https://www.w3schools.com/howto/howto_js_alert.asp)
+
+## freeCodeCamp
+- [JavaScript Array of Objects Tutorial](https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/)
+- [CSS Button Styles](https://www.freecodecamp.org/news/css-button-style-hover-color-and-background)
+- [Creating a Random Meal Generator](https://www.freecodecamp.org/news/creating-a-random-meal-generator/)
+
+## codedamn
+- [Submit Form with JavaScript](https://codedamn.com/news/javascript/submit-form-with-javascript)
+
+## Mozilla Developer
+- [Working with JavaScript Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
+
+## Tutorials Point
+- [CSS Animation - Bounce](https://www.tutorialspoint.com/css/css_animation_bounce.htm)
+
+## SYMBL Emojis
+- [SYMBL](https://symbl.cc/en/)
