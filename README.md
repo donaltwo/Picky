@@ -90,13 +90,14 @@ Known Issues
 There are no present kown issues with this web app it's it's cuurrent version.
 Deployment 
 I deployed this web app via GitHub Pages was by doing the following steps:
-1. Sign in to GitHub.
-2. Find the repository.
-3. Navigate to the "Settings" option in the menu bar.
-4. Proceed to the "Pages" tab in the sidebar on the left.
-5. Under "Source," select the "Master" branch from the dropdown menu.
-6. Click the save button to apply the changes.
-7. Once saved, the page will update, displaying the message: "Your site is ready to be published at [Picky](https://donaltwo.github.io/Picky/)."
+
+Signing in to GitHub.
+Finding the repository.
+Navigating to the "Settings" option in the menu bar.
+Proceeding to the "Pages" tab in the sidebar on the left.
+Under "Source," select the "Master" branch from the dropdown menu.
+Click the save button to apply the changes.
+Once saved, the page will update, displaying the message: "Your site is ready to be published at [URL]."
 
 Media
 The emojis code wis the only visual media and the HTML code for this was provided by [SYMBL](https://symbl.cc/en/)
