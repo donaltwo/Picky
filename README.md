@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Picky!
 
 ## Table of Contents
