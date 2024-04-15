@@ -176,14 +176,9 @@ Signing into GitHub.
 # Media
 The emojis code is the only visual media to give a more fun and dynamic element to the buttons and the HTML code for this was provided by [SYMBL](https://symbl.cc/en/)
 
-=======
->>>>>>> 4df1b1e (read me updates)
+
 # Credits & Acknowledgements
 
-Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
-# Credits & Acknowledgements
-
-<<<<<<< HEAD
 Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
 
 =======
