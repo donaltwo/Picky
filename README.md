@@ -43,13 +43,13 @@ I made wireframes in Balsamiq to give a rough estimation of what I wanted the in
 
 # Features
 
-1**Splash Screen**
+1.**Splash Screen**
 
 Using Javascript I coded in Javascript and CSS q quick welcome message giving the user the name and function of the web app.
 
 ![Splash screen welcome message](https://github.com/donaltwo/Picky/assets/155965788/fa05d549-a522-4cd6-b6bb-216f33e26956)
 
-2**Animated logo using CSS and HTML**
+2.**Animated logo using CSS and HTML**
 
 A bouncing text saying Let's get Picky using HTML and CSS to move the etxt in an up and down loop.
 
@@ -90,7 +90,7 @@ Form that allows users to submit their own food and have it tagged using the dro
 
 ![Form for users to add food](https://github.com/donaltwo/Picky/assets/155965788/6c53cd8d-c6a9-45ae-9e98-c792e814637b)
 
-9.**Footer**
+8.**Footer**
 
 Footer with my own name and year of creation for the project.
 
@@ -126,6 +126,7 @@ Footer with my own name and year of creation for the project.
 |Add Food Button   | Completes the form using Javascript storing the food object and tagging it appropiately. | Pass      |
 
 # HTML Validation W3C Validation result no errors.
+
 ![W3C Validaiton](https://github.com/donaltwo/Picky/assets/155965788/d2962b2d-c5cb-4eee-babe-ca3c81f2b8e8)
 
 # CSS Validation - Jigsaw Validation result no errors.
@@ -138,9 +139,13 @@ Footer with my own name and year of creation for the project.
 </p> 
 
  #  Javascript Validation jshint Validation result: no errors.
+ 
  ![Jshint](https://github.com/donaltwo/Picky/assets/155965788/6235566e-d3bf-46e3-b765-0010152a424c)
       |                                  
- # Lighthouse Scoring
+ # Lighthouse Scoring for Mobile/Desktop = Perfect Score!
+
+**Lightouse testing rates the beformance, SEO and accesibility of the web app. Getting 100 reflects that the web app is optimized for permance, search engines and accesible to all users.
+ 
 ![Lighthouse Results](https://github.com/donaltwo/Picky/assets/155965788/e5e3e9d7-a102-4585-8d30-ae98d197b0b2)
 
 # Known Issues
