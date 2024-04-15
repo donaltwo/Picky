@@ -21,11 +21,11 @@ Picky allows users to click on 5 flavours sweet, sour, bitter, umami, savoury  a
 A form is used to allow the user to tag and submit their own custom food choice to the web app.
 
 Audience, people with dietary requirements, neurodivergent people or anyone who is picky with what they like to eat.
-User Case 1 
+1.User Case 1 
 A person with dietary requirements, who wants to use Picky! to easily find meals that suit their taste preferences, so that they can confidently choose meals that align with their dietary needs without spending excessive time browsing through menus or recipes.
-User Case 2
+2.User Case 2
 Neurodivergent people, often struggle with decision-making, especially when it comes to food choices. With Picky!, I hope to simplify the process for them by having them selecting preferred flavors and textures, allowing them make meal decisions more efficiently.
-User Case 3
+3.User Case 3
 People often find themselves stuck in a cycle of indecision during mealtime. Picky! provides these users with a solution by offering a tailored selection of meals based  alleviating the stress of deciding what to eat next.
 
 Idea: Using JavaScript code a meal picker based on what flavour and texture you want to eat by having an interactable 
@@ -59,12 +59,8 @@ Clears current filter selection.
 8.Form that allows users to submit their own food and have it tagged using the dropdown by flavour,texture and dietary category with Add Food button to submit the form and log the food locally using Javascript.
 ![Form for users to add food](https://github.com/donaltwo/Picky/assets/155965788/6c53cd8d-c6a9-45ae-9e98-c792e814637b)
 
-
  # Testing
-
- # Validator Testing 
-
-
+ 
 # HTML Validation
 ![W3C Validaiton](https://github.com/donaltwo/Picky/assets/155965788/d2962b2d-c5cb-4eee-babe-ca3c81f2b8e8)
 
@@ -76,15 +72,15 @@ Jigsaw Valiadtion result
             src="http://jigsaw.w3.org/css-validator/images/vcss"
             alt="Valid CSS!" />
     </a>
-</p>
-Javascript Validation
- Jshint Valiadtion result
+</p> 
 
-              |                                  
+ #  Jshint Valiadtion result
+ ![Jshint](https://github.com/donaltwo/Picky/assets/155965788/6235566e-d3bf-46e3-b765-0010152a424c)
+      |                                  
  # Lighthouse Scoring
 ![Lighthouse Results](https://github.com/donaltwo/Picky/assets/155965788/e5e3e9d7-a102-4585-8d30-ae98d197b0b2)
 
-Known Issues
+# Known Issues
 There are no present kown issues with this web app it's it's cuurrent version.
 Deployment 
 I deployed this web app via GitHub Pages was by doing the following steps:
@@ -97,10 +93,10 @@ Signing in to GitHub.
 5.Click the save button to apply the changes.
 6.Once saved, the page will update, displaying the message: "Your site is ready to be published at [URL]."
 
-Media
+# Media
 The emojis code wis the only visual media and the HTML code for this was provided by [SYMBL](https://symbl.cc/en/)
 
-Credits & Acknowledgements
+# Credits & Acknowledgements
 Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
 
 Code Institute
