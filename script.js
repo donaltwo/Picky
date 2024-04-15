@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */ 
+
 // Alias commonly used functions for improved legiblity
 const $ = selector => document.querySelector(selector);
 const $$ = selector => document.querySelectorAll(selector);
@@ -20,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
             header.classList.remove("active");
         }
     });
-})
+});
 
 // Filter Selection modified from W3Schools code
 function filterSelection(c) {
@@ -41,7 +43,7 @@ function filterSelection(c) {
 }
 // Food name array includes user sumbissons when randomising as well as hard coded list
 function addRandom() {
-    const allFoodDivs = document.querySelectorAll('.filterDiv')
+    const allFoodDivs = document.querySelectorAll('.filterDiv');
     const foodNames = [];
     for (var i = 0; i < allFoodDivs.length; ++i) {
         foodNames.push(allFoodDivs[i].innerText);
