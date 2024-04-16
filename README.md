@@ -158,30 +158,28 @@ Footer with my own name and year of creation for the project.
 
 # Known Issues
 There are no present known issues with this web app, in its current version.
+
+
 # Deployment 
 I deployed this web app via GitHub Pages was by doing the following steps:
 
-Signing into GitHub.
+1.Signing into GitHub.
 
-1.Finding the repository.
+2.Finding the repository.
 
-2.Navigating to the "Settings" option in the menu bar.
+3.Navigating to the "Settings" option in the menu bar.
 
-3.Proceeding to the "Pages" tab in the sidebar on the left.
+4.Proceeding to the "Pages" tab in the sidebar on the left.
 
-4.Under "Source," select the "Master" branch from the dropdown menu.
+5.Under "Source," select the "Master" branch from the dropdown menu.
 
-5.Click the save button to apply the changes.
+6.Click the save button to apply the changes.
 
-6.Once saved, the page will update, displaying the message: "Your site is ready to be published at [https://donaltwo.github.io/Picky/](Picky)."
+7.Once saved, the page will update, displaying the message: "Your site is ready to be published at [https://donaltwo.github.io/Picky/](Picky)."
 
 # Media
 The emojis code is the only visual media to give a more fun and dynamic element to the buttons and the HTML code for this was provided by [SYMBL](https://symbl.cc/en/)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 4ff5ca7 (Validated code and added heading to form)
 # Credits & Acknowledgements
 
 Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
