@@ -183,6 +183,7 @@ The emojis code is the only visual media to give a more fun and dynamic element 
 # Credits & Acknowledgements
 
 Thanks to my Code Institute mentor Dick V for his feedback and for the below resources in shaping this project.
+The filtering code was used & modified from  [Filtering Elements](https://www.w3schools.com/howto/howto_js_filter_elements.asp) and belongs to that domain and authour.
 
 ## Code Institute Resources
 - [Love Maths Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LM101+3)
